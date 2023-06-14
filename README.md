@@ -4,6 +4,9 @@
 ## Description
 A javascript file to render an SVG file based on user prompts
 
+## Link to video
+https://drive.google.com/file/d/1YmhFfgPYFmZwPFXrhe8uTCT2fg2T6ukU/view
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
